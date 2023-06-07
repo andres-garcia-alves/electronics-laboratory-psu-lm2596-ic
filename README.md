@@ -13,6 +13,10 @@ This project use the following electronic components:
 - 1 x LM2596-ADJ adjustable voltage regulator.
 - 1 x 7805 voltage regulator.
 - 1 x LM358 operational amplifier.
+- 1 x Transistor BC547.
+- 1 x Inductor 33uH.
+- 2 x Electrolitic Capacitor 330uF/50V.
+- 2 x Potenciometers B10K (lineal).
 - ...
 
 Notes:
