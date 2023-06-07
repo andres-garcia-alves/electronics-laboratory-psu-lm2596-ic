@@ -1,6 +1,6 @@
-# Laboratory Power Supply Unit - LM2596 IC (Work-In-Progress)
+# Laboratory Power Supply Unit - LM2596 IC
 
-Electronic adjustable laboratory power supply unit based on LM2596-ADJ. Output 1.4-33V, max 2.5A, with current limitation feature.  
+Electronic adjustable laboratory power supply unit based on LM2596-ADJ. Output 1.4-33V, max 2.5A, with current limitation feature (Work-In-Progress).  
 
 Based on video playlists (spanish):  
 - [Fuente DC-DC variable + control de corriente](https://www.youtube.com/playlist?list=PLrgHsDQ2jwt0jt3FgAbFxksGTbsloWIvi)  
